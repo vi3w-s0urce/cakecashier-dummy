@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Mondwest";
+    src: url("/assets/fonts/Mondwest.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hack";
+    src: url("/assets/fonts/Hack-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hack";
+    src: url("/assets/fonts/Hack-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
